@@ -15,9 +15,9 @@
 
 | 编号 | MOD 名称 | 功能简介 | 详细介绍 | 模块下载 |
 | :---: | :--- | :--- | :---: | :---: |
-| 001 | Fish-Fight-HUD | 实时显示鱼类疲劳、体力及疲劳增长速率 | [介绍](./Modules/Fish-Fight-HUD) | [下载 ZIP](https://raw.githubusercontent.com/Ldy8698/RF4-MMFS/main/Modules/Fish-Fight-HUD/RF4-Fish-Fight-HUD-MF.zip)
+| 001 | Fish-Fight-HUD | 实时显示鱼类疲劳、体力及疲劳增长速率 | [介绍](./Modules/Fish-Fight-HUD) | [下载 ZIP](https://raw.githubusercontent.com/Ldy8698/RF4-MMFS/main/Modules/Fish-Fight-HUD/RF4-Fish-Fight-HUD-MF.zip) |
 | 002 | High-Pressure | 高压博鱼、动态疲劳增幅及装备附加损耗 | [介绍](./Modules/High-Pressure) | [下载 ZIP](https://raw.githubusercontent.com/Ldy8698/RF4-MMFS/main/Modules/High-Pressure/RF4-HighPressure-MF-Module.zip) |
- |
+
 
 ## 使用方法
 
@@ -33,5 +33,4 @@
 - 本项目面向单机离线环境。
 - MODServer 基于 [RF4 Server Simulator](https://github.com/OpenFisherCommunity/rf4_server_simulator) 拓展开发。
 
-本项目为非官方社区拓展项目。#RF4-MMFS
-
+本项目为非官方社区拓展项目。
